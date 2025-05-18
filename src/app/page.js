@@ -70,7 +70,7 @@ export default function Home() {
         
           <div className="text-center mb-8 w-full">
             <div className="flex justify-center w-full">
-              <h1 className="text-4xl min-[400px]:text-5xl md:text-7xl font-thin text-white mb-6 whitespace-nowrap">
+              <h1 className="text-4xl min-[400px]:text-5xl md:text-7xl font-md text-white mb-6 whitespace-nowrap">
                 Unlock perspectives with <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#A51AE5] to-[#fff] animate-gradient">
                   Perspectra
                 </span>
